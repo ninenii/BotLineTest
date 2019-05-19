@@ -1,5 +1,13 @@
 <?php
+curl -X GET \
+-H 'Authorization: Bearer {ENTER_ACCESS_TOKEN}' \https://api.line.me/v2/oauth/verify
+{
+  "channelId":1574629918,
+  "mid":"Ue8db11d8a42859e27190b633b89b321e"
+}
+
 $access_token = '1574629918';
+
 
 $channel_token = 'qUtNPu8a0rxW/G+Di3or3/CahLygNd13Hu7bjLCIEcEelj03SrXos1f7V1DWaGQhxzo9cEqayKclErQSycfJmMlKsGuBF+Q77SS67yvl95R8myd0xlV1YjqUWpSrsRp6tLrQzmwgK0hDQfutIYTBHAdB04t89/1O/w1cDnyilFU=';
 
