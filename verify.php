@@ -2,8 +2,8 @@ curl -X GET \
 -H 'Authorization: Bearer {ENTER_ACCESS_TOKEN}' \
 https://api.line.me/v1/oauth/verify
 {
-  "channelId":1350031035,
-  "mid":"ub00b9ac609e51f4707cd86d8e797491b"
+  "channelId":1574629918,
+  "mid":"Ue8db11d8a42859e27190b633b89b321e"
 }
 <?php
 $access_token = '1574629918';
