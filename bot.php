@@ -1,6 +1,6 @@
 <?php
 curl -X GET \
--H 'Authorization: Bearer {ENTER_ACCESS_TOKEN}' \https://api.line.me/v2/oauth/verify
+-H 'Authorization: Bearer {1574629918}' \https://api.line.me/v2/oauth/verify
 {
   "channelId":1574629918,
   "mid":"Ue8db11d8a42859e27190b633b89b321e"
