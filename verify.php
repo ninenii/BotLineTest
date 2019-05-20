@@ -1,7 +1,7 @@
 
 <?php
 curl -X GET \
--H 'Authorization: Bearer {ENTER_ACCESS_TOKEN}' \
+-H 'Authorization: Bearer {1574629918}' \
 https://api.line.me/v1/oauth/verify
 
 {
